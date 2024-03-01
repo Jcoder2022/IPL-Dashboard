@@ -1,0 +1,31 @@
+<mxfile host="Electron" modified="2024-02-29T08:55:17.241Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="sbccN7J-b8cl2Fyr6f0-" version="23.1.5" type="device">
+  <diagram name="Page-1" id="GY8ULZuC5Ex9bQwmEYG6">
+    <mxGraphModel dx="1364" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jUjlqMXlNqrZkllxCAnE-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="770" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="jUjlqMXlNqrZkllxCAnE-2" value="Match&amp;nbsp;&lt;br&gt;Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jUjlqMXlNqrZkllxCAnE-1">
+          <mxGeometry width="120" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="jUjlqMXlNqrZkllxCAnE-3" value="Match&lt;br&gt;Team 1 vs Team 2&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jUjlqMXlNqrZkllxCAnE-1">
+          <mxGeometry x="140" y="60" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jUjlqMXlNqrZkllxCAnE-7" value="Toss" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jUjlqMXlNqrZkllxCAnE-1">
+          <mxGeometry x="570" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jUjlqMXlNqrZkllxCAnE-4" value="Team X won by Y" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jUjlqMXlNqrZkllxCAnE-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jUjlqMXlNqrZkllxCAnE-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
